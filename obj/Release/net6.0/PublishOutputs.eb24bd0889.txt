@@ -1,0 +1,7 @@
+C:\Users\Hamza Şahin\source\repos\DeploymentTutorial\publish\DeploymentTutorial.exe
+C:\Users\Hamza Şahin\source\repos\DeploymentTutorial\publish\appsettings.Development.json
+C:\Users\Hamza Şahin\source\repos\DeploymentTutorial\publish\appsettings.json
+C:\Users\Hamza Şahin\source\repos\DeploymentTutorial\publish\DeploymentTutorial.dll
+C:\Users\Hamza Şahin\source\repos\DeploymentTutorial\publish\DeploymentTutorial.deps.json
+C:\Users\Hamza Şahin\source\repos\DeploymentTutorial\publish\DeploymentTutorial.runtimeconfig.json
+C:\Users\Hamza Şahin\source\repos\DeploymentTutorial\publish\DeploymentTutorial.pdb
